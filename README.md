@@ -8,5 +8,4 @@ Affiliation: Environmental Technology, School of Industrial Technology, Universi
 This is a final year project student research work. 
 
 ## Data Sources
-GOSAT amd GOSAT2
-TROPOMI
+Processed GOSAT, GOSAT2, and TROPOMI data: https://tidbrepo.usm.my/pid/79a9e9f6-80a9-4325-8f3d-4528acd89a93
